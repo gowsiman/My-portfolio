@@ -1,0 +1,97 @@
+body{
+    background-image: url(images/bg4\ \(3\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right right;
+    background-attachment:fixed;
+    height:100%;
+    background-color: black;
+    color:rgb(209, 211, 214);
+    font-size:18px;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(209, 211, 214);
+}
+
+
+a:hover{
+    color:rgb(126, 134, 150);
+}
+.container main{
+    padding-left:20px;
+    letter-spacing: 1px;
+}
+.container h1{
+    color:rgb(209, 211, 214);
+    font-size: 80px;
+    border:0;
+    margin-top:10px;
+    margin-bottom: 0;
+    padding-left:10px;
+    font-style:italic;
+}
+
+#nav ul{
+    padding-left:20px;
+    border:0;
+    margin-top:10px;
+    margin-bottom: 0;
+}
+#nav li{
+    display: inline;
+    list-style: none;
+    padding-right:2cm;
+    font-size:20px;
+}
+
+#more h3{
+    text-decoration:underline;
+}
+#more ul{
+    list-style:none;
+    padding-left: 0;
+    margin-left: 0;
+    border-left:0;
+}
+#more li{
+    padding-bottom: 10px;
+}
+#hobby{
+    float:left;
+    width:33.3%;
+    padding:0;
+    box-sizing:border-box;
+}
+
+#passion{
+    float:left;
+    width:33.3%;
+    padding:0
+    box-sizing: border-box;
+}
+
+#dream{
+    float:right;
+    width:30%;
+    padding:10px;
+    margin-bottom: 50px;
+    height:auto;
+}
+#foot{
+    text-align: center;
+    margin-top: 250px;
+    background-color: black;   
+    height:2.5%;
+}
+#foot ul{
+    list-style: none;
+}
+#foot li{
+    display: inline;
+    padding-right: 70px;
+}
+#foot img{
+    height:50px;
+}
