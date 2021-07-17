@@ -1,2 +1,7 @@
 # My-portfolio
-A simple website using HTML/CSS
+My personal portfolio made using Html/CSS.
+
+
+
+
+
